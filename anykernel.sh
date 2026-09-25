@@ -2,7 +2,7 @@
 # osm0sis @ xda-developers
 
 properties() { '
-kernel.string=-moto-dragonite-rksu-
+kernel.string=-moto-dragonite-sukisu-
 do.devicecheck=1
 do.modules=1
 do.systemless=0
