@@ -2,7 +2,7 @@
 # osm0sis @ xda-developers
 
 properties() { '
-kernel.string=—WearyStars⭐-Sunlight
+kernel.string=Singularis by ZedissP
 do.devicecheck=1
 do.modules=1
 do.systemless=0
